@@ -4,7 +4,7 @@ FGA0158 - Orientação por Objetos
 
 ---
 
-## Aula 8 - Introdução a Orientação por Objetos - parte 2
+## Aula 7 - Introdução a Orientação por Objetos - parte 2
 
 **Tópicos da aula**
 

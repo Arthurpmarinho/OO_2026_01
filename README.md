@@ -11,18 +11,18 @@ FGA - Faculdade do Gama
 ---------:|:----------:|:----------
 1	      | 16/03/2026 | [Apresentação do plano de ensino](/aula1)
 2	      | 18/03/2026 | [Revisão de programação - parte 1](/aula2)
-3	      | 23/03/2026 | Revisão de programação - parte 2; Exercícios de revisão de programação básica
-4	      | 25/03/2026 | Exercícios de revisão de programação básica; Estudo dirigido
-5	      | 30/03/2026 | **Avaliação 1**
-6	      | 01/04/2026 | Introdução a Orientação por Objetos - parte 1
+3	      | 23/03/2026 | [Revisão de programação - parte 2](/aula3); Exercícios de revisão de programação básica
+4	      | 25/03/2026 | [Exercícios de revisão de programação básica](/aula4); [Estudo dirigido](/aula4/estudoDirigido)
+5	      | 30/03/2026 | [**Avaliação 1**](/aula5)
+6	      | 01/04/2026 | [Introdução a Orientação por Objetos - parte 1](/aula6)
 7	      | 06/04/2026 | Exercícios - Introdução a Orientação por Objetos - parte 1
-8	      | 08/04/2026 | Introdução a Orientação por Objetos - parte 2
+8	      | 08/04/2026 | [Introdução a Orientação por Objetos - parte 2](/aula8)
 9	      | 13/04/2026 | Exercícios - Introdução a Orientação por Objetos - parte 2
 10	      | 15/04/2026 | Modularidade / Encapsulamento
 11	      | 20/04/2026 | Facultativo
 12	      | 22/04/2026 | Exercícios Modularidade / Encapsulamento
-13	      | 27/04/2026 | Atividade extra-classe
-14	      | 29/04/2026 | Atividade extra-classe
+13	      | 27/04/2026 | [Atividade extra-classe](/ativsExtraClasse/modularidadeEncapsulamento)
+14	      | 29/04/2026 | [Atividade extra-classe](/ativsExtraClasse/modularidadeEncapsulamento)
 15	      | 04/05/2026 | Exercícios Revisão de Conceitos OO ; Estudo Dirigido
 16	      | 06/05/2026 | **Avaliação 2**
 17	      | 11/05/2026 | Herança - parte 1
