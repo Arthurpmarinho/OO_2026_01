@@ -1,5 +1,5 @@
-UnB - Universidade de Brasilia
-FGA - Faculdade do Gama
+UnB - Universidade de Brasilia  
+FGA - Faculdade do Gama  
 FGA0158 - Orientação por Objetos
 
 ---
